@@ -1,0 +1,28 @@
+{
+  "name": "六六六",
+  "group": "1",
+  "region": "重庆大区",
+  "project": "西径",
+  "timestamp": "2026-06-03T10:18:29.050Z",
+  "summary": {
+    "total": 1,
+    "done": 0,
+    "redCount": 0,
+    "orangeCount": 0,
+    "yellowCount": 0,
+    "blueCount": 0,
+    "photoCount": 1
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": false,
+      "type": "ok",
+      "desc": "",
+      "photo": "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1780481912534-0.jpg"
+    }
+  ],
+  "risks": []
+}
