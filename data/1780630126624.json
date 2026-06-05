@@ -1,0 +1,79 @@
+{
+  "name": "宋蔚然",
+  "group": "第一组",
+  "region": "华北大区",
+  "project": "龙湖蓝海引擎",
+  "timestamp": "2026-06-05T03:28:41.738Z",
+  "summary": {
+    "total": 6,
+    "done": 6,
+    "redCount": 0,
+    "orangeCount": 0,
+    "yellowCount": 0,
+    "blueCount": 0,
+    "photoCount": 0
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "ok",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "ok",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "标识完整",
+      "ok": true,
+      "type": "ok",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道开启",
+      "ok": true,
+      "type": "ok",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "风井百叶",
+      "item": "风井百叶",
+      "ok": true,
+      "type": "ok",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "景观电箱",
+      "item": "电箱管理",
+      "ok": true,
+      "type": "ok",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ],
+  "risks": []
+}
