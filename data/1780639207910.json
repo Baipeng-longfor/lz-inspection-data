@@ -1,0 +1,60 @@
+{
+  "name": "六六六",
+  "group": "1",
+  "region": "重庆大区",
+  "project": "西径",
+  "timestamp": "2026-06-05T06:00:04.427Z",
+  "summary": {
+    "total": 3,
+    "done": 1,
+    "redCount": 1,
+    "orangeCount": 0,
+    "yellowCount": 0,
+    "blueCount": 0,
+    "photoCount": 5
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "red",
+      "desc": "哈巴爸爸啊啊啊图民生颜色",
+      "photos": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "周界完整",
+      "ok": false,
+      "type": "ok",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1780639207910-1.jpg"
+      ]
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "车场道闸",
+      "item": "监控设施",
+      "ok": false,
+      "type": "ok",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1780639207910-2.jpg"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "red",
+      "desc": "哈巴爸爸啊啊啊图民生颜色",
+      "photos": []
+    }
+  ]
+}
