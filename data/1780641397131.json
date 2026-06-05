@@ -1,0 +1,42 @@
+{
+  "name": "六六六",
+  "group": "第一组",
+  "region": "重庆大区",
+  "project": "西径",
+  "timestamp": "2026-06-05T06:36:33.833Z",
+  "summary": {
+    "total": 1,
+    "done": 1,
+    "redCount": 1,
+    "orangeCount": 0,
+    "yellowCount": 0,
+    "blueCount": 0,
+    "photoCount": 4
+  },
+  "checkpoints": [
+    {
+      "route": "动线二 · 楼栋线",
+      "area": "单元大堂",
+      "item": "结构稳固",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1780641397131-6.jpg"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线二 · 楼栋线",
+      "area": "单元大堂",
+      "item": "结构稳固",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1780641397131-6.jpg"
+      ]
+    }
+  ]
+}
