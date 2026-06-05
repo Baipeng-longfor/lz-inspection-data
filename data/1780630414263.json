@@ -1,0 +1,120 @@
+{
+  "name": "黄丽萍",
+  "group": "第一组",
+  "region": "重庆大区",
+  "project": "春江郦城",
+  "timestamp": "2026-06-05T03:33:25.753Z",
+  "summary": {
+    "total": 5,
+    "done": 5,
+    "redCount": 2,
+    "orangeCount": 2,
+    "yellowCount": 0,
+    "blueCount": 1,
+    "photoCount": 0
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "标识完整",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "周界完整",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "标识完整",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "周界完整",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ]
+}
