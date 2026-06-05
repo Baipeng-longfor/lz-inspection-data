@@ -1,0 +1,100 @@
+{
+  "name": "婷",
+  "group": "第四组",
+  "region": "重庆大区",
+  "project": "第二组",
+  "timestamp": "2026-06-05T03:26:26.213Z",
+  "summary": {
+    "total": 4,
+    "done": 4,
+    "redCount": 1,
+    "orangeCount": 0,
+    "yellowCount": 2,
+    "blueCount": 1,
+    "photoCount": 0
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道开启",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "铺装石材",
+      "item": "铺装石材",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道开启",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "铺装石材",
+      "item": "铺装石材",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ]
+}
