@@ -1,0 +1,96 @@
+{
+  "name": "六六六",
+  "group": "1",
+  "region": "重庆大区",
+  "project": "西径",
+  "timestamp": "2026-06-05T06:02:45.853Z",
+  "summary": {
+    "total": 5,
+    "done": 3,
+    "redCount": 1,
+    "orangeCount": 1,
+    "yellowCount": 1,
+    "blueCount": 0,
+    "photoCount": 6
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "red",
+      "desc": "哈巴爸爸啊啊啊图民生颜色",
+      "photos": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "周界完整",
+      "ok": false,
+      "type": "ok",
+      "desc": "呃呃呃呃呃呃呃呃",
+      "photos": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "周界测试",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "车场道闸",
+      "item": "监控设施",
+      "ok": false,
+      "type": "ok",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1780639369235-3.jpg"
+      ]
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "车场道闸",
+      "item": "标识标牌",
+      "ok": true,
+      "type": "yellow",
+      "desc": "突突突突突突",
+      "photos": []
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "red",
+      "desc": "哈巴爸爸啊啊啊图民生颜色",
+      "photos": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "周界测试",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "车场道闸",
+      "item": "标识标牌",
+      "ok": true,
+      "type": "yellow",
+      "desc": "突突突突突突",
+      "photos": []
+    }
+  ]
+}
