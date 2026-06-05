@@ -1,0 +1,60 @@
+{
+  "name": "李四",
+  "group": "第一组",
+  "region": "成都大区",
+  "project": "云筑",
+  "timestamp": "2026-06-05T01:11:57.345Z",
+  "summary": {
+    "total": 2,
+    "done": 2,
+    "redCount": 0,
+    "orangeCount": 1,
+    "yellowCount": 1,
+    "blueCount": 0,
+    "photoCount": 0
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "通道畅通",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "消防通道",
+      "item": "监控点位",
+      "ok": true,
+      "type": "orange",
+      "desc": "",
+      "photo": "",
+      "_photoUrls": []
+    }
+  ]
+}
