@@ -1,0 +1,92 @@
+{
+  "name": "六六六",
+  "group": "第一组",
+  "region": "重庆大区",
+  "project": "西径",
+  "timestamp": "2026-06-09T10:35:16.460Z",
+  "summary": {
+    "total": 3,
+    "done": 3,
+    "redCount": 2,
+    "orangeCount": 0,
+    "yellowCount": 1,
+    "blueCount": 0,
+    "photoCount": 6
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "red",
+      "desc": "哈哈哈",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-6.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-7.jpg"
+      ]
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "车场道闸",
+      "item": "封闭管理",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线二 · 楼栋线",
+      "area": "单元大堂",
+      "item": "结构稳固",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-8.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-9.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-10.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-11.jpg"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "围墙周界",
+      "item": "围合完整",
+      "ok": true,
+      "type": "red",
+      "desc": "哈哈哈",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-6.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-7.jpg"
+      ]
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "车场道闸",
+      "item": "封闭管理",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线二 · 楼栋线",
+      "area": "单元大堂",
+      "item": "结构稳固",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-8.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-9.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-10.jpg",
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781001319623-11.jpg"
+      ]
+    }
+  ]
+}
