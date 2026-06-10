@@ -1,0 +1,206 @@
+{
+  "name": "测试",
+  "group": "第一组",
+  "region": "东北大区",
+  "project": "百年世家",
+  "timestamp": "2026-06-10T08:28:32.275Z",
+  "summary": {
+    "total": 9,
+    "done": 9,
+    "redCount": 3,
+    "orangeCount": 1,
+    "yellowCount": 1,
+    "blueCount": 4,
+    "photoCount": 3
+  },
+  "checkpoints": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "铺装石材",
+      "item": "铺装石材",
+      "ok": true,
+      "type": "blue",
+      "desc": "石材破损",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781080134705-3.jpg"
+      ]
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "井盖",
+      "item": "井盖完整",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781080134705-4.jpg"
+      ]
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消控室",
+      "item": "监控设备",
+      "ok": true,
+      "type": "orange",
+      "desc": "小于30天",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消控室",
+      "item": "合规证照",
+      "ok": true,
+      "type": "red",
+      "desc": "没中级证",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消控室",
+      "item": "主机状态",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消防泵房",
+      "item": "机房环境",
+      "ok": true,
+      "type": "blue",
+      "desc": "没有限空间标识",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781080134705-5.jpg"
+      ]
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消防泵房",
+      "item": "阀门状态",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "报警阀室",
+      "item": "报警阀状态",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "报警阀室",
+      "item": "设备房环境",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    }
+  ],
+  "risks": [
+    {
+      "route": "动线一 · 总坪线",
+      "area": "铺装石材",
+      "item": "铺装石材",
+      "ok": true,
+      "type": "blue",
+      "desc": "石材破损",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781080134705-3.jpg"
+      ]
+    },
+    {
+      "route": "动线一 · 总坪线",
+      "area": "井盖",
+      "item": "井盖完整",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781080134705-4.jpg"
+      ]
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消控室",
+      "item": "监控设备",
+      "ok": true,
+      "type": "orange",
+      "desc": "小于30天",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消控室",
+      "item": "合规证照",
+      "ok": true,
+      "type": "red",
+      "desc": "没中级证",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消控室",
+      "item": "主机状态",
+      "ok": true,
+      "type": "yellow",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消防泵房",
+      "item": "机房环境",
+      "ok": true,
+      "type": "blue",
+      "desc": "没有限空间标识",
+      "photos": [
+        "https://raw.githubusercontent.com/Baipeng-longfor/lz-inspection-data/main/photos/1781080134705-5.jpg"
+      ]
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "消防泵房",
+      "item": "阀门状态",
+      "ok": true,
+      "type": "red",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "报警阀室",
+      "item": "报警阀状态",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    },
+    {
+      "route": "动线三 · 地库线",
+      "area": "报警阀室",
+      "item": "设备房环境",
+      "ok": true,
+      "type": "blue",
+      "desc": "",
+      "photos": [],
+      "_photoUrls": []
+    }
+  ]
+}
